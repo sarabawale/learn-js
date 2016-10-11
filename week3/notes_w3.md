@@ -205,8 +205,19 @@ Write a new related function. It now should only take a name. The function shoul
 - i.e. '11 is odd'
 
 #### Task 2
+(i'm using this for the next weeks do now since we ddint' ccomplete in class.
 - Write a function `lengths` that accepts an array as a single parameter.
 - The function should return an array of numbers where each number is the length of the corresponding string.
+```javascript
+//starter
+
+var words = ['Meet the Beatles', 'Beatles on Sale', 'Hard Days Night', 'Seargent Peppers Lonely Heart Club Band', 'White Album']
+
+//write a function called length, that prints on the length of each string inside the array
+
+//BONUS, change the function to return an array of just the album title lengths
+
+
 
 
 ## Homework
